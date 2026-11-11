@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "codex",
+  "core": "write-email_codex-core",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "write-email": "a4d02c07198cd66501f0cce65bf2611f1a8b4293ed8d00cddf9e20aae9cc153e"
+  }
+}
